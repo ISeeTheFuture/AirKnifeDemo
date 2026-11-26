@@ -1,0 +1,5 @@
+.ruff_cache
+archive
+docs
+release
+*/__pycache__/*

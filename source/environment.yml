@@ -1,0 +1,15 @@
+name: airknife-track2
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - pybullet=3.25
+  - numpy=1.26
+  - scipy=1.15
+  - pillow
+  - tk
+  - pip
+  - pip:
+      - open3d==0.19.0
+
